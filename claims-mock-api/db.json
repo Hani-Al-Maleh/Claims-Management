@@ -1,0 +1,251 @@
+{
+  "users": [
+    { "id": "1", "email": "john@example.com", "password": "password123" },
+    { "id": "2", "email": "jane@example.com", "password": "password456" },
+    { "id": "3", "email": "mike@example.com", "password": "mikepass" },
+    { "id": "4", "email": "emma@example.com", "password": "emma123" },
+    { "id": "5", "email": "alex@example.com", "password": "alexpass" }
+  ],
+  "claims": [
+    {
+      "id": "1",
+      "patientName": "Ahmed Ali",
+      "diagnosisCode": "D101",
+      "procedureCode": "P201",
+      "claimAmount": 1500,
+      "status": "pending"
+    },
+    {
+      "id": "2",
+      "patientName": "Sara Mohamed",
+      "diagnosisCode": "D202",
+      "procedureCode": "P302",
+      "claimAmount": 3200,
+      "status": "Approved"
+    },
+    {
+      "id": "3",
+      "patientName": "Youssef Hassan",
+      "diagnosisCode": "D303",
+      "procedureCode": "P403",
+      "claimAmount": 2750,
+      "status": "Denied"
+    },
+    {
+      "id": "4",
+      "patientName": "Leila Ibrahim",
+      "diagnosisCode": "D404",
+      "procedureCode": "P504",
+      "claimAmount": 1900,
+      "status": "pending"
+    },
+    {
+      "id": "5",
+      "patientName": "Khaled Mahmoud",
+      "diagnosisCode": "D505",
+      "procedureCode": "P605",
+      "claimAmount": 4800,
+      "status": "Approved"
+    },
+    {
+      "id": "6",
+      "patientName": "Mona Abdullah",
+      "diagnosisCode": "D606",
+      "procedureCode": "P706",
+      "claimAmount": 5300,
+      "status": "Denied"
+    },
+    {
+      "id": "7",
+      "patientName": "Hussein Farouk",
+      "diagnosisCode": "D707",
+      "procedureCode": "P807",
+      "claimAmount": 4200,
+      "status": "Approved"
+    },
+    {
+      "id": "8",
+      "patientName": "Reem Khaled",
+      "diagnosisCode": "D808",
+      "procedureCode": "P908",
+      "claimAmount": 3700,
+      "status": "pending"
+    },
+    {
+      "id": "9",
+      "patientName": "Omar Nasser",
+      "diagnosisCode": "D909",
+      "procedureCode": "P1009",
+      "claimAmount": 2600,
+      "status": "Denied"
+    },
+    {
+      "id": "10",
+      "patientName": "Noor Alhuda",
+      "diagnosisCode": "D1010",
+      "procedureCode": "P1110",
+      "claimAmount": 7200,
+      "status": "Approved"
+    },
+    {
+      "id": "11",
+      "patientName": "Fatima Yassin",
+      "diagnosisCode": "D1111",
+      "procedureCode": "P1211",
+      "claimAmount": 5400,
+      "status": "pending"
+    },
+    {
+      "id": "12",
+      "patientName": "Abdulrahman Zidan",
+      "diagnosisCode": "D1212",
+      "procedureCode": "P1312",
+      "claimAmount": 3100,
+      "status": "Approved"
+    },
+    {
+      "id": "13",
+      "patientName": "Nada Sami",
+      "diagnosisCode": "D1313",
+      "procedureCode": "P1413",
+      "claimAmount": 2750,
+      "status": "Denied"
+    },
+    {
+      "id": "14",
+      "patientName": "Ayman Hamdi",
+      "diagnosisCode": "D1414",
+      "procedureCode": "P1514",
+      "claimAmount": 4500,
+      "status": "Approved"
+    },
+    {
+      "id": "15",
+      "patientName": "Rana Kamal",
+      "diagnosisCode": "D1515",
+      "procedureCode": "P1615",
+      "claimAmount": 6000,
+      "status": "pending"
+    },
+    {
+      "id": "16",
+      "patientName": "Benjamin Harris",
+      "diagnosisCode": "D1515",
+      "procedureCode": "P1615",
+      "claimAmount": 6000,
+      "status": "Pending"
+    },
+    {
+      "id": "17",
+      "patientName": "Harper Clark",
+      "diagnosisCode": "D1616",
+      "procedureCode": "P1716",
+      "claimAmount": 2800,
+      "status": "Approved"
+    },
+    {
+      "id": "18",
+      "patientName": "Daniel Lewis",
+      "diagnosisCode": "D1717",
+      "procedureCode": "P1817",
+      "claimAmount": 3300,
+      "status": "Denied"
+    },
+    {
+      "id": "19",
+      "patientName": "Ella Walker",
+      "diagnosisCode": "D1818",
+      "procedureCode": "P1918",
+      "claimAmount": 5000,
+      "status": "Pending"
+    },
+    {
+      "id": "20",
+      "patientName": "Matthew Hall",
+      "diagnosisCode": "D1919",
+      "procedureCode": "P2019",
+      "claimAmount": 3600,
+      "status": "Approved"
+    },
+    {
+      "id": "21",
+      "patientName": "Scarlett Allen",
+      "diagnosisCode": "D2020",
+      "procedureCode": "P2120",
+      "claimAmount": 4700,
+      "status": "Denied"
+    },
+    {
+      "id": "22",
+      "patientName": "Logan King",
+      "diagnosisCode": "D2121",
+      "procedureCode": "P2221",
+      "claimAmount": 2900,
+      "status": "Pending"
+    },
+    {
+      "id": "23",
+      "patientName": "Grace Scott",
+      "diagnosisCode": "D2222",
+      "procedureCode": "P2322",
+      "claimAmount": 4100,
+      "status": "Approved"
+    },
+    {
+      "id": "24",
+      "patientName": "Henry Young",
+      "diagnosisCode": "D2323",
+      "procedureCode": "P2423",
+      "claimAmount": 5600,
+      "status": "Denied"
+    },
+    {
+      "id": "25",
+      "patientName": "Lily Adams",
+      "diagnosisCode": "D2424",
+      "procedureCode": "P2524",
+      "claimAmount": 3900,
+      "status": "Approved"
+    },
+    {
+      "id": "26",
+      "patientName": "Jack Nelson",
+      "diagnosisCode": "D2525",
+      "procedureCode": "P2625",
+      "claimAmount": 5300,
+      "status": "Pending"
+    },
+    {
+      "id": "27",
+      "patientName": "Chloe Carter",
+      "diagnosisCode": "D2626",
+      "procedureCode": "P2726",
+      "claimAmount": 3500,
+      "status": "Denied"
+    },
+    {
+      "id": "28",
+      "patientName": "Samuel Mitchell",
+      "diagnosisCode": "D2727",
+      "procedureCode": "P2827",
+      "claimAmount": 4600,
+      "status": "Approved"
+    },
+    {
+      "id": "29",
+      "patientName": "Zoe Perez",
+      "diagnosisCode": "D2828",
+      "procedureCode": "P2928",
+      "claimAmount": 3100,
+      "status": "Pending"
+    },
+    {
+      "id": "30",
+      "patientName": "Nathan Roberts",
+      "diagnosisCode": "D2929",
+      "procedureCode": "P3029",
+      "claimAmount": 5200,
+      "status": "Denied"
+    }
+  ]
+}
